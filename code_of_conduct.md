@@ -51,6 +51,7 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 You can make a report either personally or anonymously.
 
 __Anonymous Report__
+
 You can make an anonymous report via [this form](https://docs.google.com/forms/d/e/1FAIpQLScc3NNMIudCxZvXZNaRbI1kO-c9acdPE7X2UCMmo67kC-dT2Q/viewform)
 
 We can’t follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
@@ -58,7 +59,6 @@ We can’t follow up an anonymous report with you directly, but we will fully in
 __Personal Report__
 
 You can make a personal report by:	
-
 - Calling or messaging this phone number: 027 732 6481. This phone number will be continuously monitored for the duration of the event.
 - Contacting a conference volunteer, identified by a volunteer shirt/lanyard, the volunteer will get one of the organisers to take your report. Or you can contact an organizer directly, identified by a organizer shirt/lanyard.
 - Email us at [info@bsides.nz](mailto:info@bsides.nz)

@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 show_downloads: false
+site.title: BSides Wellington
+site.description: Bees Busily Breaking Their Way to a Better World. 

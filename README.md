@@ -1,9 +1,9 @@
 
 # BSides Wellington
 
-## Will be on the 23rd & 24th of November 2017 at Shed 6
+Will be on the 23rd & 24th of November 2017 at Shed 6
 
-## [Our CFP is now open until August 26, 2017!](https://www.papercall.io/bsideswlg2017)
+[Our CFP is now open until August 26, 2017!](https://www.papercall.io/bsideswlg2017)
 
 Why not [join our public slack](https://chat.bsides.nz) or [email us](mailto:info@bsides.nz) with any inquiries you may have?
 

@@ -71,13 +71,13 @@ When taking a personal report, our volunteers will ensure you are safe and canno
 Our team will be happy to help you contact local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
 
 
-Organiser’s email: info@bsides.nz
-Organiser’s phone number: 027 732 6481
-Police (emergency): 111
-Police (non-emergency): 04 381 2000
+- Organiser’s email: info@bsides.nz
+- Organiser’s phone number: 027 732 6481
+- Police (emergency): 111
+- Police (non-emergency): 04 381 2000
 
-24hr sexual assault counselling hotline: 04 801 6655 - push 0. Wellington Help
-Emergency medical: 111
-Non-emergency medical: Wellington Accident & Urgent Medical Centre 04 384 4944
-Healthline (freephone medical advice from nurses): 0800 611 116
-Wellington Combined Taxis: 04 384 4444	
+- 24hr sexual assault counselling hotline: 04 801 6655 - push 0. Wellington Help
+- Emergency medical: 111
+- Non-emergency medical: Wellington Accident & Urgent Medical Centre 04 384 4944
+- Healthline (freephone medical advice from nurses): 0800 611 116
+- Wellington Combined Taxis: 04 384 4444	

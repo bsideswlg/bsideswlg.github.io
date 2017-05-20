@@ -2,13 +2,15 @@
 layout: page
 title: BSides Wellington
 ---
+
+
 ## [Our CFP is now open until August 26, 2017!](https://www.papercall.io/bsideswlg2017)
 
 # BSides Wellington
+
 ## Will be on the 23rd & 24th of November 2017 at Shed 6
 
 [Why not join our public slack](https://chat.bsides.nz) or [email us with any inquiries you may have?(mailto:info@bsides.nz)
-
 
 Interested in sponsoring our event? [Click and download our kit here for more info!](https://bsides.nz/BSidesWLG_2017_Sponsorship_Kit.pdf)
 

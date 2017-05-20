@@ -59,23 +59,18 @@ __Personal Report__
 
 You can make a personal report by:	
 
-Calling or messaging this phone number: 027 732 6481. This phone number will be continuously monitored for the duration of the event.
-
-
-Contacting a conference volunteer, identified by a volunteer shirt/lanyard, the volunteer will get one of the organisers to take your report. Or you can contact an organizer directly, identified by a organizer shirt/lanyard.
-
-Email us at [info@bsides.nz](mailto:info@bsides.nz)
+- Calling or messaging this phone number: 027 732 6481. This phone number will be continuously monitored for the duration of the event.
+- Contacting a conference volunteer, identified by a volunteer shirt/lanyard, the volunteer will get one of the organisers to take your report. Or you can contact an organizer directly, identified by a organizer shirt/lanyard.
+- Email us at [info@bsides.nz](mailto:info@bsides.nz)
 
 When taking a personal report, our volunteers will ensure you are safe and cannot be overheard. They may involve other event volunteers or the conference organisers to ensure your report is managed properly. Once safe, we’ll ask you to tell us about what happened. This can be upsetting, but we’ll handle it as respectfully as possible, and you can bring someone to support you. You won’t be asked to confront anyone and we won’t tell anyone who you are.
 
 Our team will be happy to help you contact local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
 
-
 - Organiser’s email: info@bsides.nz
 - Organiser’s phone number: 027 732 6481
 - Police (emergency): 111
 - Police (non-emergency): 04 381 2000
-
 - 24hr sexual assault counselling hotline: 04 801 6655 - push 0. Wellington Help
 - Emergency medical: 111
 - Non-emergency medical: Wellington Accident & Urgent Medical Centre 04 384 4944

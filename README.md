@@ -12,4 +12,4 @@ Interested in sponsoring our event? [Click and download our kit here for more in
 
 You can also [follow us on twitter](https://twitter.com/bsideswlg) if you'd like to "bee" in the loop!
 
-BSides Wellington takes pride in following our Code of Conduct. [You can read it in full here!](code_of_conduct.html)
+BSides Wellington takes pride in following our Code of Conduct. [You can read it in full here!](code-of-conduct.html)

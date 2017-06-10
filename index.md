@@ -28,12 +28,13 @@ title: Home
 
 Why not [join our public slack](https://chat.bsides.nz) or [email us](mailto:info@bsides.nz) with any inquiries you may have?
 
-Interested in sponsoring our event? [Click and download our kit here for more info!](site.baseurl/sponsor/BSidesWLG_2017_Sponsorship_Kit.pdf)
+Interested in sponsoring our event? [Click and download our kit here for more info!](/sponsor/BSidesWLG_2017_Sponsorship_Kit.pdf)
 
 You can also [follow us on twitter](https://twitter.com/bsideswlg) if you'd like to "bee" in the loop!
 
 BSides Wellington takes pride in following our Code of Conduct. [You can read it in full here!](code-of-conduct) 
 
+{% comment %}
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
@@ -49,4 +50,6 @@ BSides Wellington takes pride in following our Code of Conduct. [You can read it
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+
 </div>
+{% endcomment %}

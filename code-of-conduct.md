@@ -1,3 +1,8 @@
+---
+layout: page
+title: Code Of Conduct
+---
+
 # BSides Wellington Code of Conduct
 
 ## The Short Version

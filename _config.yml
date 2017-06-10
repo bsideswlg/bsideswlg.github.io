@@ -8,20 +8,17 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            BlackDoc
-tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
+title:            BSide Wellington 
+tagline:          Bees busily breaking their way to a better world
+description:      "Wellington New Zealand's Community Security Conference, NOV 23-24, 2017"
+url:              https://bsideswlg.github.io
 baseurl:          /
 
 author:
-  name:           'Karlo Espiritu'
-  url:            https://twitter.com/karloespiritu
+  name:           'BSidw Wellington Crew'
+  url:            https://twitter.com/bsideswlg
 
-paginate:         5
-
-# Custom vars
-version:          1.0.1
+paginate:         10
 
 github:
-  repo:           https://github.com/karloespiritu/blackdoc
+  repo:           https://github.com/bsideswlg/bsideswlg.github.io

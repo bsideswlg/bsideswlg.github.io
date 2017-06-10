@@ -8,7 +8,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            BSide Wellington 
+title:            BSides Wellington  
 tagline:          Bees busily breaking their way to a better world
 description:      "Wellington New Zealand's Community Security Conference, NOV 23-24, 2017"
 url:              https://bsideswlg.github.io
@@ -22,3 +22,5 @@ paginate:         10
 
 github:
   repo:           https://github.com/bsideswlg/bsideswlg.github.io
+
+  

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: News
-permalink: /news/latest/
+permalink: /news/
 ---
 

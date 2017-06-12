@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About - Venue
+title: Venue
 permalink: /about/venue/
 ---
 

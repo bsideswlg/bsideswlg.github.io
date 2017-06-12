@@ -1,5 +1,5 @@
 # Plugins
-gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
+gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata','jekyll-redirect-from']
 
 # Dependencies
 highlighter:      rouge
@@ -22,5 +22,4 @@ paginate:         10
 
 github:
   repo:           https://github.com/bsideswlg/bsideswlg.github.io
-
   

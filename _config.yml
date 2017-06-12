@@ -11,11 +11,11 @@ permalink:        pretty
 title:            BSides Wellington  
 tagline:          Bees busily breaking their way to a better world
 description:      "Wellington New Zealand's Community Security Conference, NOV 23-24, 2017"
-url:              https://bsideswlg.github.io
-baseurl:          /
+url:              "https://bsideswlg.github.io"
+baseurl:          "/"
 
 author:
-  name:           'BSidw Wellington Crew'
+  name:           'BSides Wellington Crew'
   url:            https://twitter.com/bsideswlg
 
 paginate:         10

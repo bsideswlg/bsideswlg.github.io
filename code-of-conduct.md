@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Code Of Conduct
+permalink: /code-of-conduct/
 ---
 
 # BSides Wellington Code of Conduct

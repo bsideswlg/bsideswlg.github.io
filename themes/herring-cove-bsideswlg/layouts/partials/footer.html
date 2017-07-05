@@ -1,0 +1,11 @@
+    <footer>
+
+        <p class="text-muted credit">{{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{now.Format "2006"}} This Is Fine Ltd. Brought to you by the BSides Wellington Crew! {{end}}</p>
+    </footer>
+ <!-- Bootstrap core JavaScript-->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="{{ .Site.BaseURL }}/js/hc.js"></script>
+</body>
+
+</html>

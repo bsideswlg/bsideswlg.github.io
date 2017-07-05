@@ -1,0 +1,25 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+baseURL = "https://bsides.nz/"
+canonifyURLs = false
+themesDir = "themes"
+theme = "herring-cove-bsideswlg"
+title = "BSides Wellington"
+
+[params]
+  description = "NZ's community infosec conference for all! 23rd & 24th of November 2017."
+  author = "BSides Wellington Team"
+  ProfilePicture = "/images/BSides_2017_Logo.png"
+  twitter = "https://twitter.com/bsideswlg"
+  slack = "https://chat.bsides.nz/"
+  email = "mailto:info@bsides.nz"
+
+[params.links]
+  "Home" = ""
+  "Event Information" = "event"
+  "About Us" = "about"
+  "Code of Conduct" = "coc"
+  "Sponsorship" = "sponsor"
+  "Call for Papers" = "cfp"

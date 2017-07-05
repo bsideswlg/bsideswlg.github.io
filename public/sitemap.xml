@@ -3,25 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bsides.nz/event/</loc>
+    <loc>https://bsideswlg.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://bsides.nz/event/venue/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bsides.nz/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bsides.nz/categories/</loc>
+    <loc>https://bsideswlg.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bsides.nz/tags/</loc>
+    <loc>https://bsideswlg.github.io/cfp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bsideswlg.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsideswlg.github.io/coc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bsideswlg.github.io/event/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bsideswlg.github.io/sponsor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bsideswlg.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bsideswlg.github.io/</loc>
   </url>
   
 </urlset>

@@ -1,6 +1,6 @@
 contentDir = "content"
 layoutDir = "layouts"
-publishDir = "public"
+publishDir = "docs"
 buildDrafts = false
 baseURL = "https://bsideswlg.github.io/"
 canonifyURLs = false

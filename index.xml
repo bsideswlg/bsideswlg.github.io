@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BSides Wellington</title>
-    <link>https://bsideswlg.github.io/</link>
+    <link>https://www.bsides.nz/</link>
     <description>Recent content on BSides Wellington</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://bsideswlg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bsides.nz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About BSides Wellington</title>
-      <link>https://bsideswlg.github.io/about/</link>
+      <link>https://www.bsides.nz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsideswlg.github.io/about/</guid>
+      <guid>https://www.bsides.nz/about/</guid>
       <description>What is Security B-Sides? BSides is a community-driven framework for building events for and by information security community members. The goal is to expand the spectrum of knowledge and understanding through conversation by creating opportunities for individuals to both present and participate in an intimate atmosphere that encourages discussion and collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations on the next big thing are happening.</description>
     </item>
     
     <item>
       <title>Call for Papers</title>
-      <link>https://bsideswlg.github.io/cfp/</link>
+      <link>https://www.bsides.nz/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsideswlg.github.io/cfp/</guid>
+      <guid>https://www.bsides.nz/cfp/</guid>
       <description>Call For Papers (CFP) is open until August 26th! Go Submit!
 In true Security B-Sides (BSides) form, BSides Wellington is a community security conference. And what better way to pay tribute to that community than putting consultants, hackers, hobbyists, academics, students, and public sector type folks in conference hall to share knowledge.
 Submissions are reviewed by a CFP review board and will be accepted in 2 rounds; so if you have something to say, submit it now because the second round will be a bit less flexible in terms of time/format/topics as spots will be full.</description>
@@ -31,10 +31,10 @@ Submissions are reviewed by a CFP review board and will be accepted in 2 rounds;
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://bsideswlg.github.io/coc/</link>
+      <link>https://www.bsides.nz/coc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsideswlg.github.io/coc/</guid>
+      <guid>https://www.bsides.nz/coc/</guid>
       <description>The short version Bsides Wellington is dedicated to a harassment-free conference experience for everyone. We encourage all participants to make each other feel welcome and included in activities throughout the conference.
 The long version Code of Conduct
 Bsides Wellington is dedicated to providing an inclusive (and harassment-free) conference experience for everyone, regardless of identity or characteristics that include but not are not limited to:
@@ -43,10 +43,10 @@ Bsides Wellington is dedicated to providing an inclusive (and harassment-free) c
     
     <item>
       <title>Event</title>
-      <link>https://bsideswlg.github.io/event/</link>
+      <link>https://www.bsides.nz/event/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsideswlg.github.io/event/</guid>
+      <guid>https://www.bsides.nz/event/</guid>
       <description>Event BSides Wellington will take place on the 23rd and 24th of November 2017
 Location &amp;amp; Logistics BSides Wellington will take place in Shed 6 on Queens Wharf. Shed6 is in the middle of town, near the train station, and close to many cafes, pubs, and hotels.
 For BSides Wellington, Shed 6 will be broken into multiple talk/workshop areas, consisting of a large talk track, a smaller talk/workshop track, and a third room for other events.</description>
@@ -54,30 +54,30 @@ For BSides Wellington, Shed 6 will be broken into multiple talk/workshop areas, 
     
     <item>
       <title>Sponsorship</title>
-      <link>https://bsideswlg.github.io/sponsor/</link>
+      <link>https://www.bsides.nz/sponsor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsideswlg.github.io/sponsor/</guid>
+      <guid>https://www.bsides.nz/sponsor/</guid>
       <description>BSides Wellington would not be possible without the following sponsors:
 Platinum Sponsors            Axenic Ltd.      Gold Sponsors           Confide Ltd.      Silver Sponsors             ZX Security       Quantum Security Services Ltd       Bronze Sponsors             Lateral Security (IT) Services Limited        Interested in Sponsoring?</description>
     </item>
     
     <item>
       <title>Volunteer</title>
-      <link>https://bsideswlg.github.io/volunteer/</link>
+      <link>https://www.bsides.nz/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsideswlg.github.io/volunteer/</guid>
+      <guid>https://www.bsides.nz/volunteer/</guid>
       <description>Volunteer Interested in helping at BSidesWLG 2017?
 As a community-driven event, BSidesWLG would not be possible without the work of volunteers. The organisers are working hard to build a fun and exciting agenda. In order to execute this event and make it successful, we seeking volunteers to help with tasks before and on the two days of the event (November 23rd-24th, 2017), which include, but are not limited to:</description>
     </item>
     
     <item>
       <title>Welcome to BSides Wellington</title>
-      <link>https://bsideswlg.github.io/</link>
+      <link>https://www.bsides.nz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsideswlg.github.io/</guid>
+      <guid>https://www.bsides.nz/</guid>
       <description>BSidesWLG 2017 is a diverse and inclusive information security conference welcoming anyone and everyone that is interested in security. BSides is an open platform that provides a rare opportunity to share experiences, ideas, insights, and develop longstanding relationships with others in the security community.
 Our 2017 conference will provide approximately 450 participants with the choice of 2 tracks that will cover a wide range of information security disciplines and topics, with a workshop space, a CTF competition, and much more!</description>
     </item>

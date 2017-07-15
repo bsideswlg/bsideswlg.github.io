@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BSides Wellington</title>
-    <link>https://www.bsides.nz/tags/</link>
+    <link>https://bsideswlg.github.io/tags/</link>
     <description>Recent content in Tags on BSides Wellington</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://www.bsides.nz/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bsideswlg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

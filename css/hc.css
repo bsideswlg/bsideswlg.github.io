@@ -4,7 +4,8 @@ body
   background-color:#f0f0f0;
   width:100%;
   border-top:solid #fedd00;
-  border-width:4px
+  border-width:4px;
+  font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Segoe UI', sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6
@@ -420,7 +421,7 @@ pre
 
 .article-title
 {
-  font-size:35px;
+  font-size:40px;
   font-weight:700;
   color:#fedd00;
   font-family:'Abril Fatface', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Segoe UI', sans-serif;
@@ -814,6 +815,10 @@ time
     color:#cdcdcd
   }
 
+  .vertical-align {
+    display: block !important;
+    align-items: center !important;
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -879,4 +884,45 @@ time
     font-size: small;
   }
 
+  .vertical-align {
+    display: block !important;
+    align-items: center !important;
+  }
+
+}
+
+/* Sponsor Page CSS */
+
+.platinum-sponsors-block div a .sponsor-img {
+  max-height: 300px;
+}
+
+.diversity-sponsors-block div a .sponsor-img {
+  max-height: 200px;
+}
+
+.gold-sponsors-block div a .sponsor-img {
+  max-height: 200px;
+}
+
+.silver-sponsors-block div a .sponsor-img {
+  max-height: 130px;
+}
+
+.bronze-sponsors-block div a .sponsor-img {
+  max-height: 80px;
+}
+
+.sponsor-img {
+  padding: 15px 0;
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 30px;
+    margin-bottom: 15px;
 }

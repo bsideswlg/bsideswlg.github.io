@@ -926,3 +926,23 @@ time
     margin-top: 30px;
     margin-bottom: 15px;
 }
+
+.btn-rego {
+  background-color: #fedd00 !important;
+  margin: 50px auto !important;
+  width: 80% !important;
+  font-size: 3em !important;
+  font-family:'Abril Fatface', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Segoe UI', sans-serif !important;
+  font-weight: bold !important;
+  color: #3a3a3a !important;
+}
+
+.btn-rego:hover {
+  background-color: #feee00 !important;
+  margin: 50px auto !important;
+  width: 80% !important;
+  font-size: 3em !important;
+  font-family:'Abril Fatface', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Segoe UI', sans-serif !important;
+  font-weight: bold !important;
+  color: #2a2a2a !important;
+}
